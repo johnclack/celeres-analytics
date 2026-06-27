@@ -1,0 +1,7 @@
+<svg width="900" height="520" viewBox="0 0 900 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="520" rx="32" fill="#F7FAFC"/>
+<path d="M130 104h160v112H130zM370 104h160v112H370zM610 104h160v112H610zM250 304h160v112H250zM490 304h160v112H490z" fill="white" stroke="#DCE7F1" stroke-width="2"/>
+<path d="M290 160h80M530 160h80M450 216v62M370 360h120" stroke="#0B132B" stroke-width="4" stroke-linecap="round"/>
+<circle cx="210" cy="160" r="22" fill="#58E6D9"/><circle cx="450" cy="160" r="22" fill="#58E6D9"/><circle cx="690" cy="160" r="22" fill="#58E6D9"/><circle cx="330" cy="360" r="22" fill="#F6C85F"/><circle cx="570" cy="360" r="22" fill="#F6C85F"/>
+<text x="164" y="254" fill="#516174" font-family="Inter, Arial" font-size="20">messy data</text><text x="404" y="254" fill="#516174" font-family="Inter, Arial" font-size="20">clean model</text><text x="652" y="254" fill="#516174" font-family="Inter, Arial" font-size="20">dashboard</text><text x="282" y="454" fill="#516174" font-family="Inter, Arial" font-size="20">automation</text><text x="524" y="454" fill="#516174" font-family="Inter, Arial" font-size="20">decision</text>
+</svg>
