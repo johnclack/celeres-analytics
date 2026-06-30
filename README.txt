@@ -4,6 +4,7 @@ Open locally:
 1. Unzip this folder.
 2. Double-click index.html.
 3. Use the navigation links to view About, Projects, and Blog.
+4. Celebrate
 
 This version keeps the original visual theme while repositioning the company around education consulting and small-business efficiency.
 
